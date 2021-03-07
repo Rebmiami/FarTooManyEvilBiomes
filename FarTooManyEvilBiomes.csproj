@@ -16,5 +16,6 @@
   <ItemGroup>
     <Folder Include="Biomes\ExperimentBiome\Items\" />
     <Folder Include="Biomes\ExperimentBiome\Tiles\" />
+    <Folder Include="Items\" />
   </ItemGroup>
 </Project>
