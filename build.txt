@@ -1,0 +1,3 @@
+displayName = Far Too Many Evil Biomes
+author = Rebmiami
+version = 0.1
