@@ -1,1 +1,20 @@
-Far Too Many Evil Biomes is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+WARNING! Far Too Many Evil Biomes can be a very destructive mod! Please set aside a world specifically for playing with this mod and use the chat command "/de_ftmeb" if you accidentally introduce it to a world you care about. It will remove all FTMEB tiles from your world - the game may freeze for a second (especially on larger worlds), but it's nothing to worry about.
+
+Far Too Many Evil Biomes (FTMEB) is a content mod with the purpose of spicing up every playthrough with a unique challenge in the form of new and shiny evil biomes.
+
+The mod adds several new evil biomes, one of which is selected at random when you create a world. They spread in various different ways, affect the landscapes they take over in different ways, and have a variety of mechanics and items. Each one is themed in a unique way and present their own challenge.
+
+Currently, the mod has 0 evil biomes with a goal of 100 in the full version of the mod.
+
+Well, you may wonder - if I have to deal with twice as many evil biomes per world, how can I fight against them?
+This mod has your back in this department too - it adds several new tools for controlling the growth of evil biomes.
+
+What else does it have to offer? How about some non-evil biomes? 
+We got that too! 
+FTMEB adds some new passive elements to your world, such as rare rich caves with higher ore concentrations or peaceful sanctuaries with cute critters.
+The mod will add a few artificial biomes that the player can create and easily control for their own benefit.
+
+Want even more of a challenge? FTMEB also offers some config settings so you can tweak the difficulty to your desire.
+
+You can increase the number of evil biomes that spawn - set it to two, three, or maybe even five if you want to race against the infestation of your world, or even all biomes in the mod if you just want to revel in the chaos!
+For even more of a challenge, you can boost the rate at which the world evolves - grass grows faster, vines grow longer, and yes, evil biomes spread faster.
