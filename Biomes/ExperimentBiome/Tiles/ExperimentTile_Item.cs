@@ -10,6 +10,7 @@ namespace FarTooManyEvilBiomes.Biomes.ExperimentBiome.Tiles
 		public override void SetStaticDefaults()
 		{
 			Tooltip.SetDefault("Tastes like a Terraria modder's blood");
+			DisplayName.SetDefault("Experiment Tile");
 		}
 
 		public override void SetDefaults()
